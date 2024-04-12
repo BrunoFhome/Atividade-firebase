@@ -1,0 +1,39 @@
+.container1{
+    margin: 0 auto;
+    background-color: #f7803c;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    width: 600px;
+    padding: 20px;
+    height: 300px;
+
+}
+.container2{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.container3{
+    margin-left: 10px;
+    padding-left: 10px;
+
+}
+.container0{
+    text-align: center;
+    padding: 20px;
+    background-color: #d8523d;
+
+}
+.btn{
+    border-radius: 30px;
+    background-color: #d8523d;
+    margin-left: 90%;
+    padding: 10px;
+}
+.btn1{
+    border-radius: 30px;
+    background-color: #d8523d;
+    display: inline-block;
+    padding: 10px;
+}

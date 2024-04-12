@@ -1,0 +1,16 @@
+
+.container{
+    margin: 0 auto;
+    background-color: #f7803c;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    margin-top: 15%;
+}
+.input{
+    padding: 100px;
+    text-align: center;
+
+}

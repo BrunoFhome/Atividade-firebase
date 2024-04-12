@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.bloco{
+  border-left: 2px solid #f0f2dc;
+  margin-left: 3px;
+}
